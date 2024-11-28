@@ -1,2 +1,2 @@
-# neuromorphic-computing
-Spike neural network implementation for supervised learning using the Heidelberg spiking data sets.
+# Computação neuromórfica
+Jupyter notebook com um passo-a-passo para a criação e treinamento de uma spiking neural network (SNN) com o conjunto de dados Spiking Heidelberg Digits  (SHD). O programa é uma adaptação dos arquivos disponibilizados em https://rockpool.ai/basics/hello_MNIST.html e https://rockpool.ai/tutorials/rockpool-shd.html.
